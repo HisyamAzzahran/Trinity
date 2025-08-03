@@ -1,0 +1,6 @@
+Flask
+fabric
+easyocr
+opencv-python
+numpy
+mediapipe
