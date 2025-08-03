@@ -13,7 +13,7 @@ Trinity adalah aplikasi berbasis Python yang menggunakan **computer vision** dan
    ```
 
 2. **Install semua dependencies**  
-   Pastikan Anda sudah memiliki Python 3.8+ dan pip. Lalu jalankan:
+   Pastikan Anda sudah memiliki Python 3.12 (Tidak Lebih Tidak Kurang) dan pip. Lalu jalankan:
    ```bash
    pip install -r requirements.txt
    ```
